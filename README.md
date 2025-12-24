@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Ndungu, a tech enthusiast
+- 👋 Hi, I’m Chris Ndungu, a Data Engineer & Tech Enthusiast
 - 👀 I’m passionate and curious about everything to do with tech.
 - 💞️ I’m looking to collaborate on cool and challenging projects on Machine Learning, FullStack Development, Cloud Engineering and Data Engineering.
 - 📫 How to reach me:  
